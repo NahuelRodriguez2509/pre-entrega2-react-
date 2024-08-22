@@ -1,0 +1,110 @@
+[
+    {
+    "id": 1,
+    "nombre": "BIDON AGUA",
+    "imagen": "/assets/img/agua3.jpeg",
+    "detalle": "BIDON DE AGUA DE 20 LTS",
+    "categoria":"Aguas",
+    "precio": 900,
+    "stock": 100
+    },
+    {
+    "id": 2,
+    "nombre": "AGUA MEDIANA",
+    "imagen": "/assets/img/agua2.jpeg",
+    "detalle": "AGUA MEDIANA DE 1,5 LITROS",
+    "categoria":"Aguas",
+    "precio": 600,
+    "stock": 1000
+    },
+    {
+      "id": 3,
+      "nombre": "AGUA CHICA",
+      "imagen": "/assets/img/agua1.jpeg",
+      "detalle": "AGUA CHICA DE 500 CC",
+      "categoria":"Aguas",
+      "precio": 300,
+      "stock": 1500
+    },
+    {
+      "id": 4,
+      "nombre": "CERVEZA RUBIA",
+      "imagen": "/assets/img/cervezas.jpeg",
+      "detalle": "CERVEZA RUBIA DE LITRO",
+      "categoria":"Cervezas",
+      "precio": 2800,
+      "stock": 2000
+    },
+    {
+      "id": 5,
+      "nombre": "CERVEZA NEGRA",
+      "imagen": "/assets/img/cervezas.jpeg",
+      "detalle": "CERVEZA NEGRA DE LITRO",
+      "categoria":"Cervezas",
+      "precio": 2800,
+      "stock": 2000
+      },
+      {
+      "id": 6,
+      "nombre": "CERVEZA ROJA",
+      "imagen": "/assets/img/cervezas.jpeg",
+      "detalle": "CERVEZA ROJA DE LITRO",
+      "categoria":"Cervezas",
+      "precio": 2800,
+      "stock": 2000
+      },
+      {
+      "id": 7,
+      "nombre": "COCA-COLA",
+      "imagen": "/assets/img/coca-cola.jpeg",
+      "detalle": "COCA-COLA DE 500 cc",
+      "categoria":"Gaseosas",
+      "precio": 1500,
+      "stock": 70
+      },
+      {
+      "id": 8,
+      "nombre": "FANTA",
+      "imagen": "/assets/img/fanta.jpeg",
+      "detalle": "FANTA DE 500 CC",
+      "categoria":"Gaseosas",
+      "precio": 1500,
+      "stock": 80
+      },
+      {
+      "id": 9,
+      "nombre": "SPRITE",
+      "imagen": "/assets/img/sprite.jpeg",
+      "detalle": "SPRITE DE 500 CC",
+      "categoria":"Gaseosas",
+      "precio": 1500,
+      "stock": 90
+      },
+      {
+      "id": 10,
+      "nombre": "VINO TINTO",
+      "imagen":  "/assets/img/vinos.jpeg",
+      "detalle": "Detalle del producto 1",
+      "categoria":"Vinos",
+      "precio": 4800,
+      "stock": 450
+      },
+      {
+      "id": 11,
+      "nombre": "VINO BLANCO",
+      "imagen": "/assets/img/vinos.jpeg",
+      "detalle": "Detalle del producto 1",
+      "categoria":"Vinos",
+      "precio": 4600,
+      "stock": 300
+      },
+      {
+      "id": 12,
+      "nombre": "VINO ROSADO",
+      "imagen":  "/assets/img/vinos.jpeg",
+      "detalle": "Detalle del producto 1",
+      "categoria":"Vinos",
+      "precio": 4500,
+      "stock": 190
+      }
+]
